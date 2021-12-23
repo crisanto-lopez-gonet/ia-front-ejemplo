@@ -1,5 +1,5 @@
-# ia-front
-Intelligence Accounting Web Application
+# ia-front-ejemplo
+Quasar web app example
 
 ## Install the dependencies
 ```bash
